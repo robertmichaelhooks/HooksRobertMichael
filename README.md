@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dejan Teofilovic</h1>
 <h3 align="center">A passionate full-stack developer from Serbia</h3>
+<img src="./profile-3d-contrib/profile-green-animate.svg"/>
 
 - 👨‍💻 All of my projects are available at [https://portfolio-k8jev6vlb-dejan-teofilovics-projects.vercel.app/](https://portfolio-k8jev6vlb-dejan-teofilovics-projects.vercel.app/)
 
