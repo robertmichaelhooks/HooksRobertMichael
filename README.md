@@ -1,16 +1,16 @@
-<h1 align="center">Hi 👋, I'm Dejan Teofilovic</h1>
-<h3 align="center">A passionate full-stack developer from Serbia</h3>
+<h1 align="center">Hi 👋, I'm Robert Michael Hooks</h1>
+<h3 align="center">A passionate full-stack developer from US</h3>
 <img src="./profile-3d-contrib/profile-green-animate.svg"/>
 
-- 👨‍💻 All of my projects are available at [https://portfolio-k8jev6vlb-dejan-teofilovics-projects.vercel.app/](https://portfolio-k8jev6vlb-dejan-teofilovics-projects.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://robert-portfolio-9638.netlify.app/](https://robert-portfolio-9638.netlify.app/)
 
-- 📫 How to reach me **dejanteofilovic2@gmail.com**
+- 📫 How to reach me **robertmichaelhooks@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/dejan-teofilovic-9036a2292/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dejan teofilovic" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/22653837/dejan-teofilovic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="dejan teofilovic" height="30" width="40" /></a>
-<a href="https://discord.gg/4yhKxQdV" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="dejan teofilovic" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/hooks-robert-michael-4b821a2a2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dejan teofilovic" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/23316223/robert-michael-hooks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="dejan teofilovic" height="30" width="40" /></a>
+<a href="https://discord.gg/w7zyaNvTAd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="dejan teofilovic" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
